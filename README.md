@@ -1,3 +1,4 @@
 ### Определение возраста покупателя по фотографии 
-Computer Vision
+- Computer Vision
+
 Keras, TensorFlow, архитектура Backbone, Adam
